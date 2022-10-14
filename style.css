@@ -386,13 +386,13 @@ width: 442px;
        position: absolute;
     right: -30px;
     top: 90px;
-    z-index: 25;
+    z-index: 23;
 }
 .section_3-circles2{
     position: relative;
     right: -975px;
     top: 280px;
-    z-index: 29;
+    z-index: 24;
     /* transition: rotate(90deg); */
     rotate:calc(180deg) ;
 }
@@ -617,13 +617,13 @@ footer{
        position: absolute;
     right: -25px;
     top: 100px;
-    z-index: 25;
+    z-index: 23;
 }
 .section_3-circles2{
     position: relative;
     right: -790px;
     top: 270px;
-    z-index: 29;
+    z-index: 24;
     /* transition: rotate(90deg); */
     rotate:calc(180deg) ;
 }
@@ -699,13 +699,13 @@ border:solid 2px ;
        position: absolute;
     right: -27.5px;
     top: 100px;
-    z-index: 25;
+    z-index: 23;
 }
 .section_3-circles2{
     position: relative;
     right: -890px;
     top: 270px;
-    z-index: 29;
+    z-index: 24;
     /* transition: rotate(90deg); */
     rotate:calc(180deg) ;
 }
@@ -1166,13 +1166,13 @@ color: #000000;
        position: absolute;
    left: 0px;
     top: 90px;
-    z-index: 25;
+    z-index: 23;
 }
 .section_3-circles2{
     position: relative;
     right: -50px;
     top: 50px;
-    z-index: 29;
+    z-index: 24;
     /* transition: rotate(90deg); */
     rotate:calc(-30deg) ;
 }
