@@ -573,7 +573,7 @@ footer{
     padding-bottom: 1rem;
 }
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:1240px){
     .section_1-h2{
     font-family: 'Mulish';
     font-style: normal;
